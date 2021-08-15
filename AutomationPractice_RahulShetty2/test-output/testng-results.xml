@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-15T13:06:20 IST" name="Default suite" finished-at="2021-08-15T13:06:35 IST" duration-ms="15160">
+    <groups>
+    </groups>
+    <test started-at="2021-08-15T13:06:20 IST" name="Default test" finished-at="2021-08-15T13:06:35 IST" duration-ms="15160">
+      <class name="rahulshettytests.TC5_Switchtab">
+        <test-method signature="TC5_SwitchTab(java.lang.reflect.Method)[pri:0, instance:rahulshettytests.TC5_Switchtab@3c407114]" started-at="2021-08-15T13:06:20 IST" name="TC5_SwitchTab" finished-at="2021-08-15T13:06:34 IST" duration-ms="14381" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void rahulshettytests.TC5_Switchtab.TC5_SwitchTab(java.lang.reflect.Method) throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5_SwitchTab -->
+        <test-method is-config="true" signature="aTest()[pri:0, instance:rahulshettytests.TC5_Switchtab@3c407114]" started-at="2021-08-15T13:06:34 IST" name="aTest" finished-at="2021-08-15T13:06:35 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+      </class> <!-- rahulshettytests.TC5_Switchtab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

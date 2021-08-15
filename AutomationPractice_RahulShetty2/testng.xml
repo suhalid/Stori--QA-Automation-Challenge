@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+	<listeners>
+		<listener
+			class-name="automationpractice.rahulshetty.utils.Listeners" />
+	</listeners>
+	<test name="Test">
+		<groups>
+		</groups>
+		<classes>
+			<class name="rahulshettytests.TC2_Suggestionclass" />
+			<class name="rahulshettytests.TC3_Dropdown" />
+			<class name="rahulshettytests.TC4_Switchwindow" />
+			<class name="rahulshettytests.TC5_Switchtab" />
+			<class name="rahulshettytests.TC6_Switchalert" />
+			<class name="rahulshettytests.TC7_CoursesWith25" />
+			<class name="rahulshettytests.TC8_Engineersname" />
+			<class name="rahulshettytests.TC9_Iframe" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
